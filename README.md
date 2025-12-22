@@ -11,7 +11,7 @@
 🏛️ **Political Mission:** Creating [PolitiekPraat](https://politiekpraat.nl) - Making politics accessible for everyone  
 🗳️ **Gemeenteraadskandidaat:** D66 Ede | Verkiezingen 18 maart 2026  
 🌐 **Portfolio:** [naoufalandichi.com](https://www.naoufalandichi.com)  
-📍 **Location:** Ede, Netherlands
+📍 **Location:** Gelderland, Netherlands
 
 ---
 
