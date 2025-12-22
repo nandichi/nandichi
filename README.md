@@ -118,7 +118,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nandichi&color=blue&style=flat-square&label=Profile+Views&base=1000" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=nandichi&color=blue&style=flat-square&label=Profile+Views&base=83293" alt="Profile Views" />
 </div>
 
 <div align="center">
