@@ -6,7 +6,6 @@
 
 ## 🚀 About Me
 
-🔭 **Currently Working:** Software Developer at [Developing B.V.](https://developing.nl)  
 💻 **Focus:** Building modern web applications with PHP, Laravel, React & TypeScript  
 🏛️ **Political Mission:** Creating [PolitiekPraat](https://politiekpraat.nl) - Making politics accessible for everyone  
 🗳️ **Gemeenteraadskandidaat:** D66 Ede | Verkiezingen 18 maart 2026  
