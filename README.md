@@ -1,125 +1,178 @@
-# Hi there, I'm Naoufal Andichi 👋
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9FFF&center=true&vCenter=true&repeat=true&width=600&lines=Full+Stack+Developer;PHP+%7C+Laravel+%7C+React+Specialist;Building+Scalable+Web+Solutions;Political+Tech+Enthusiast" alt="Typing SVG" />
-</div>
 
-## 🚀 About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:7C3AED&height=250&section=header&text=Naoufal%20Andichi&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Founder%20%7C%20Civic-tech%20builder&descSize=17&descAlignY=55&animation=fadeIn" width="100%" alt="Naoufal Andichi - Full Stack Developer" />
 
-💻 **Focus:** Building modern web applications with PHP, Laravel, React & TypeScript  
-🏛️ **Political Mission:** Creating [PolitiekPraat](https://politiekpraat.nl) - Making politics accessible for everyone  
-🗳️ **Gemeenteraadskandidaat:** D66 Ede | Verkiezingen 18 maart 2026  
-🌐 **Portfolio:** [naoufalandichi.com](https://www.naoufalandichi.com)  
-📍 **Location:** Gelderland, Netherlands
+<a href="https://naoufalandichi.nl">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&width=820&height=50&lines=Building+modern+web+products+from+idea+to+launch;Founder+of+Andichi+Webworks;Making+technology+and+politics+more+accessible;PHP+%C2%B7+Laravel+%C2%B7+TypeScript+%C2%B7+React+%C2%B7+Next.js" alt="Animated introduction" />
+</a>
 
----
+<p>
+  <strong>Full Stack Developer from Ede, the Netherlands</strong><br />
+  I build websites, platforms and digital products that are useful, clear and built to last.
+</p>
 
-## 🛠️ Tech Stack
+<a href="https://naoufalandichi.nl"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/naoufalandichi/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" /></a>
+<a href="mailto:naoufal.exe@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY%20HELLO-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" /></a>
+<a href="https://cal.com/naoufal-9wbytn"><img src="https://img.shields.io/badge/CAL.COM-BOOK%20A%20CALL-7C3AED?style=for-the-badge&logo=caldotcom&logoColor=white&labelColor=0D1117" alt="Book a call" /></a>
 
-### Languages & Frameworks
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+<br /><br />
 
-### Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nandichi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandichi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandichi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-## 🌟 Featured Projects
-
-### [PolitiekPraat](https://politiekpraat.nl)
-**A platform making Dutch politics accessible for everyone**
-- 🗳️ Interactive Stemwijzer (Voting Guide)
-- 📊 Real-time political polls & analytics
-- 📰 150+ political articles & analyses
-- 👥 50,000+ engaged readers
-- **Tech:** PHP, Laravel, MySQL, JavaScript
-
-### [HupOfferte](https://github.com/nandichi/HupOfferte)
-**AI-powered invoice generator for freelancers**
-- 🤖 Smart invoice generation
-- 📄 Professional PDF exports
-- 💼 Client & project management
-- **Tech:** TypeScript, React, Next.js
-
-### [Elyse Iedema Photography](https://elyseiedema.nl)
-**Professional photography portfolio**
-- 📸 Modern responsive gallery
-- 🎨 Minimalist design
-- 📱 Mobile-optimized lightbox
-- **Tech:** PHP, MySQL, JavaScript, Bootstrap
-
----
-
-## 💼 Professional Experience
-
-**Software Developer** @ Developing B.V. *(Sept 2024 - Present)*
-- Building modern web applications with WordPress, PHP/Laravel & Tailwind CSS
-- Leading technical interviews for internship candidates
-- Creating internal knowledge bases & documentation
-
-**Software Developer Intern** @ I@control *(Feb - Apr 2023)*
-- Developed applications with TypeScript, C#, ASP.NET & AngularJS
-- Focus on code quality, testing & team collaboration
-
----
-
-## 🏛️ Political Engagement
-
-### D66 Gemeenteraadskandidaat | Ede
-> *"Ik geloof in de kracht van verandering door verbinding. Politiek is voor mij niet alleen besturen, maar bruggen bouwen tussen generaties, tussen ideeën, tussen dromen en realiteit."*
-
-**My Vision:**
-- 🌱 Toekomstbestendig & duurzaam Ede
-- 🎓 Massale investering in onderwijs & innovatie
-- 🏡 Versnelde woningbouw voor jonge gezinnen
-- 🌍 Klimaatbescherming voor toekomstige generaties
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naoufalandichi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.naoufalandichi.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naoufal.exe@gmail.com)
-[![PolitiekPraat](https://img.shields.io/badge/PolitiekPraat-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://politiekpraat.nl)
+<img src="https://komarev.com/ghpvc/?username=nandichi&color=blue&style=flat-square&label=Profile+Views&base=83293" alt="Profile Views" />
 
 </div>
 
----
+## About me
+
+<table>
+<tr>
+<td width="56%" valign="top">
+
+<h3>Builder first</h3>
+
+<p>I like owning the full product journey: turning an idea into a clear interface, a reliable backend and a product people can actually use.</p>
+
+<ul>
+  <li>Founder and Full Stack Developer at <a href="https://naoufalandichi.nl"><strong>Andichi Webworks</strong></a></li>
+  <li>Freelance collaborator with <strong>Developing B.V.</strong></li>
+  <li>Creator of products in civic tech, SaaS and native macOS</li>
+  <li>Strongest in PHP/Laravel and TypeScript/React/Next.js</li>
+</ul>
+
+</td>
+<td width="44%" valign="top">
+
+<h3>Current focus</h3>
+
+<ul>
+  <li>Growing Andichi Webworks</li>
+  <li>Building and improving HupOfferte</li>
+  <li>Evolving PolitiekPraat and PolitiekProfiel</li>
+  <li>Exploring Swift and native macOS development</li>
+  <li>Starting European Studies at THUAS in September 2026</li>
+</ul>
+
+</td>
+</tr>
+</table>
+
+## Featured work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>PolitiekPraat</h3>
+<p>A Dutch platform that makes politics easier to understand through news, explainers, blogs, polls and election tools.</p>
+<p><code>PHP</code> <code>MySQL</code> <code>JavaScript</code></p>
+<a href="https://politiekpraat.nl"><img src="https://img.shields.io/badge/LIVE-VISIT%20PLATFORM-238636?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Visit PolitiekPraat" /></a>
+<a href="https://github.com/nandichi/PolitiekPraat"><img src="https://img.shields.io/badge/SOURCE-VIEW%20REPO-1F6FEB?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="PolitiekPraat source" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>PolitiekProfiel</h3>
+<p>A privacy-first political compass that maps views across five independent dimensions with transparent scoring and an adaptive quiz.</p>
+<p><code>Next.js 16</code> <code>React 19</code> <code>TypeScript</code> <code>Payload</code> <code>Neon</code></p>
+<a href="https://politiekprofiel.nl"><img src="https://img.shields.io/badge/LIVE-TRY%20THE%20COMPASS-238636?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Try PolitiekProfiel" /></a>
+<a href="https://github.com/nandichi/PolitiekProfiel"><img src="https://img.shields.io/badge/SOURCE-VIEW%20REPO-1F6FEB?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="PolitiekProfiel source" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>HupOfferte</h3>
+<p>An AI-assisted quote generator for Dutch freelancers, combining guided input, branded PDF exports and online payments.</p>
+<p><code>Next.js</code> <code>TypeScript</code> <code>Supabase</code> <code>Stripe</code></p>
+<a href="https://naoufalandichi.nl/cases/hupofferte"><img src="https://img.shields.io/badge/CASE-STUDY-7C3AED?style=for-the-badge&logo=readme&logoColor=white&labelColor=0D1117" alt="HupOfferte case study" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>Radio Naoufal</h3>
+<p>A native macOS radio app with 35+ Dutch stations, live audio-reactive VU meters, AirPlay, Chromecast and a retro boombox UI.</p>
+<p><code>Swift 6</code> <code>SwiftUI</code> <code>AVFoundation</code> <code>Accelerate</code></p>
+<a href="https://github.com/nandichi/Radio-Naoufal"><img src="https://img.shields.io/badge/SOURCE-VIEW%20REPO-1F6FEB?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Radio Naoufal source" /></a>
+<a href="https://github.com/nandichi/Radio-Naoufal/releases/latest"><img src="https://img.shields.io/badge/MACOS-DOWNLOAD-F05138?style=for-the-badge&logo=apple&logoColor=white&labelColor=0D1117" alt="Download Radio Naoufal" /></a>
+
+</td>
+</tr>
+</table>
+
+## Tech stack
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nandichi&color=blue&style=flat-square&label=Profile+Views&base=83293" alt="Profile Views" />
+
+<img src="https://skillicons.dev/icons?i=php,laravel,ts,js,react,nextjs,tailwind,wordpress,mysql,postgres,supabase,docker,git,github,figma,swift&perline=8" alt="PHP, Laravel, TypeScript, JavaScript, React, Next.js, Tailwind CSS, WordPress, MySQL, PostgreSQL, Supabase, Docker, Git, GitHub, Figma and Swift" />
+
 </div>
 
+<br />
+
+<table>
+<tr>
+<td width="33%" valign="top">
+<h3>Frontend</h3>
+<p>TypeScript, React, Next.js, JavaScript, Tailwind CSS, accessible responsive UI.</p>
+</td>
+<td width="34%" valign="top">
+<h3>Backend & data</h3>
+<p>PHP, Laravel, WordPress, Payload CMS, MySQL, PostgreSQL, Neon and Supabase.</p>
+</td>
+<td width="33%" valign="top">
+<h3>Delivery</h3>
+<p>Git, GitHub Actions, Docker, Vercel, testing, SEO, performance and product iteration.</p>
+</td>
+</tr>
+</table>
+
+## My journey
+
+| Period | Chapter |
+|:--|:--|
+| **2026 - now** | Founder and Full Stack Developer at **Andichi Webworks** |
+| **2026 - now** | Freelance development and support for **Developing B.V.** |
+| **Starting Sep 2026** | European Studies, English Stream at **The Hague University of Applied Sciences** |
+| **2024 - 2026** | Software Developer at **Developing B.V.** |
+| **2021 - 2025** | MBO 4 Software Developer at **Rijn IJssel** |
+| **2023** | Software Developer Intern at **I@control** |
+
+## Code, politics and Europe
+
+My technical and political interests meet in civic tech. I build tools that explain public issues instead of reducing them to noise.
+
+- Active member of [**D66 Ede**](https://d66.nl/ede/nieuws/d66-ede-presenteert-kandidatenlijst-voor-de-gemeenteraadsverkiezingen-van-2026/) and #12 on its 2026 municipal election list
+- Creator of **PolitiekPraat** and **PolitiekProfiel**
+- Starting **European Studies** at THUAS in September 2026
+- Interested in democracy, Europe, public communication and digital accessibility
+
+## GitHub in motion
+
 <div align="center">
-  <i>💡 "Excellence is not a skill, it's an attitude." - Ralph Marston</i>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nandichi&theme=github_dark" alt="GitHub statistics" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nandichi&theme=github_dark" alt="Repositories per language" />
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nandichi&theme=github_dark" alt="GitHub profile details" />
+
+
+</div>
+
+## Let's build something useful
+
+<div align="center">
+
+<p>If you have a product idea, a website that needs to perform better or a civic-tech project worth building, feel free to reach out.</p>
+
+<a href="https://naoufalandichi.nl"><img src="https://img.shields.io/badge/VIEW%20MY%20WORK-naoufalandichi.nl-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="View my work" /></a>
+<a href="https://cal.com/naoufal-9wbytn"><img src="https://img.shields.io/badge/BOOK%20A%20CALL-15%20OR%2045%20MIN-7C3AED?style=for-the-badge&logo=caldotcom&logoColor=white&labelColor=0D1117" alt="Book a call" /></a>
+<a href="mailto:naoufal.exe@gmail.com"><img src="https://img.shields.io/badge/EMAIL-naoufal.exe%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email Naoufal" /></a>
+
+<br /><br />
+
+<sub>Built with curiosity in Ede, the Netherlands.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:1F6FEB,100:0D1117&height=120&section=footer&animation=fadeIn" width="100%" alt="Footer" />
+
 </div>
